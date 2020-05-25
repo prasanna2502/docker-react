@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React locally from docker with live reload
+          This is from feature
         </a>
       </header>
     </div>
